@@ -1,6 +1,6 @@
 <!-- ==================== Cyberpunk Banner ==================== -->
 <p align="center">
-  <img src="./cyberpunk-banner.png" alt="Cyberpunk Banner" width="100%" />
+  <img src="./cyberpunk_banner.png" alt="Cyberpunk Banner" width="100%" />
 </p>
 
 <!-- ==================== Avatar & Title ==================== -->
