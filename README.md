@@ -5,7 +5,6 @@
 
 <!-- ==================== Avatar & Title ==================== -->
 <h1 align="center">
-  <img src="./avatar-cyberpunk.png" alt="Cyberpunk Avatar" width="150" style="border-radius:50%; border:4px solid #66FFCC;" /><br/>
   👾 Hey, I'm Rahul Gupta 👾
 </h1>
 <h3 align="center">🚀 CS Undergrad @ Delhi University | Full-Stack Dev in Progress | Open-Source Builder</h3>
