@@ -62,41 +62,43 @@ Stack: `TypeScript` • `Next.js` • `TailwindCSS`
 
 ## 🎓 Certifications & Badges
 <p align="center">
-  <a href="#"><img src="./src/Badges/IBM Python for Data Science and AI.png" width="100px"></a>
-  <a href="#"><img src="./src/Badges/IBM_SE_Essentials.png" width="100px"></a>
-  <a href="#"><img src="./src/Badges/SAP_DataAnalyst.png" width="100px"></a>
-  <a href="#"><img src="./src/Badges/sap-certified-associate-backend-developer-sap-cloud.png" width="100px"></a>
-  <a href="#"><img src="./src/Badges/Oracle_Professional.png" width="100px"></a>
-  <a href="#"><img src="./src/Badges/Oracle_university.png" width="100px"></a>
-  <a href="#"><img src="./src/Badges/python-essentials-1.1.png" width="100px"></a>
-  <a href="#"><img src="./src/Badges/AWSEBadge.png" width="100px"></a>
-  <a href="#"><img src="./src/Badges/image.png" width="100px"></a>
+  <a href="https://github.com/rgcodexd/rgcodexd/blob/main/src/Badges/IBM%20Python%20for%20Data%20Science%20and%20AI.png"><img src="./src/Badges/IBM Python for Data Science and AI.png" width="100px"></a>
+  <a href="https://github.com/rgcodexd/rgcodexd/blob/main/src/Badges/IBM_SE_Essentials.png"><img src="./src/Badges/IBM_SE_Essentials.png" width="100px"></a>
+  <a href="https://github.com/rgcodexd/rgcodexd/blob/main/src/Badges/SAP_DataAnalyst.png"><img src="./src/Badges/SAP_DataAnalyst.png" width="100px"></a>
+  <a href="https://github.com/rgcodexd/rgcodexd/blob/main/src/Badges/sap-certified-associate-backend-developer-sap-cloud.png"><img src="./src/Badges/sap-certified-associate-backend-developer-sap-cloud.png" width="100px"></a>
+  <a href="https://github.com/rgcodexd/rgcodexd/blob/main/src/Badges/Oracle_Professional.png"><img src="./src/Badges/Oracle_Professional.png" width="100px"></a>
+  <a href="https://github.com/rgcodexd/rgcodexd/blob/main/src/Badges/Oracle_university.png"><img src="./src/Badges/Oracle_university.png" width="100px"></a>
+  <a href="https://github.com/rgcodexd/rgcodexd/blob/main/src/Badges/python-essentials-1.1.png"><img src="./src/Badges/python-essentials-1.1.png" width="100px"></a>
+  <a href="https://github.com/rgcodexd/rgcodexd/blob/main/src/Badges/AWSEBadge.png"><img src="./src/Badges/AWSEBadge.png" width="100px"></a>
+  <a href="https://github.com/rgcodexd/rgcodexd/blob/main/src/Badges/image.png"><img src="./src/Badges/image.png" width="100px"></a>
+  <a href="https://github.com/rgcodexd/rgcodexd/blob/main/src/Badges/Screenshot%202025-10-18%20201248.png"><img src="./src/Badges/Screenshot 2025-10-18 201248.png" width="100px"></a>
+  <a href="https://github.com/rgcodexd/rgcodexd/blob/main/src/Badges/unnamed.png"><img src="./src/Badges/unnamed.png" width="100px"></a>
 </p>
 
 ## 🏅 LeetCode Badge Showcase
 <p align="center">
-  <img src="./src/Badges/25100.gif" width="80" alt="100 Days Badge 2025" />
-  <img src="./src/Badges/2550.gif" width="80" alt="50 Days Badge 2025" />
-  <img src="./src/Badges/2024-50.gif" width="80" alt="50 Days Badge 2024" />
-  <img src="./src/Badges/100.gif" width="80" alt="100 Problems" />
-  <img src="./src/Badges/200.gif" width="80" alt="200 Problems" />
+  <a href="https://github.com/rgcodexd/rgcodexd/blob/main/src/Badges/25100.gif"><img src="./src/Badges/25100.gif" width="80" alt="100 Days Badge 2025" /></a>
+  <a href="https://github.com/rgcodexd/rgcodexd/blob/main/src/Badges/2550.gif"><img src="./src/Badges/2550.gif" width="80" alt="50 Days Badge 2025" /></a>
+  <a href="https://github.com/rgcodexd/rgcodexd/blob/main/src/Badges/2024-50.gif"><img src="./src/Badges/2024-50.gif" width="80" alt="50 Days Badge 2024" /></a>
+  <a href="https://github.com/rgcodexd/rgcodexd/blob/main/src/Badges/100.gif"><img src="./src/Badges/100.gif" width="80" alt="100 Problems" /></a>
+  <a href="https://github.com/rgcodexd/rgcodexd/blob/main/src/Badges/200.gif"><img src="./src/Badges/200.gif" width="80" alt="200 Problems" /></a>
 </p>
 
 <p align="center">
-  <img src="./src/Badges/2024-11.gif" width="80" alt="November 2024" />
-  <img src="./src/Badges/202501.gif" width="80" alt="January 2025" />
-  <img src="./src/Badges/202502.gif" width="80" alt="February 2025" />
-  <img src="./src/Badges/03.gif" width="80" alt="March 2025" />
-  <img src="./src/Badges/202504.gif" width="80" alt="April 2025" />
-  <img src="./src/Badges/202505.gif" width="80" alt="May 2025" />
-  <img src="./src/Badges/202506.gif" width="80" alt="June 2025" />
-  <img src="./src/Badges/202507.gif" width="80" alt="July 2025" />
-  <img src="./src/Badges/202508.gif" width="80" alt="August 2025" />
+  <a href="https://github.com/rgcodexd/rgcodexd/blob/main/src/Badges/2024-11.gif"><img src="./src/Badges/2024-11.gif" width="80" alt="November 2024" /></a>
+  <a href="https://github.com/rgcodexd/rgcodexd/blob/main/src/Badges/202501.gif"><img src="./src/Badges/202501.gif" width="80" alt="January 2025" /></a>
+  <a href="https://github.com/rgcodexd/rgcodexd/blob/main/src/Badges/202502.gif"><img src="./src/Badges/202502.gif" width="80" alt="February 2025" /></a>
+  <a href="https://github.com/rgcodexd/rgcodexd/blob/main/src/Badges/03.gif"><img src="./src/Badges/03.gif" width="80" alt="March 2025" /></a>
+  <a href="https://github.com/rgcodexd/rgcodexd/blob/main/src/Badges/202504.gif"><img src="./src/Badges/202504.gif" width="80" alt="April 2025" /></a>
+  <a href="https://github.com/rgcodexd/rgcodexd/blob/main/src/Badges/202505.gif"><img src="./src/Badges/202505.gif" width="80" alt="May 2025" /></a>
+  <a href="https://github.com/rgcodexd/rgcodexd/blob/main/src/Badges/202506.gif"><img src="./src/Badges/202506.gif" width="80" alt="June 2025" /></a>
+  <a href="https://github.com/rgcodexd/rgcodexd/blob/main/src/Badges/202507.gif"><img src="./src/Badges/202507.gif" width="80" alt="July 2025" /></a>
+  <a href="https://github.com/rgcodexd/rgcodexd/blob/main/src/Badges/202508.gif"><img src="./src/Badges/202508.gif" width="80" alt="August 2025" /></a>
 </p>
 
 <p align="center">
-  <img src="./src/Badges/Introduction_to_Pandas.gif" width="80" alt="Pandas Course" />
-  <img src="./src/Badges/Top_SQL_50.gif" width="80" alt="Top SQL 50" />
+  <a href="https://github.com/rgcodexd/rgcodexd/blob/main/src/Badges/Introduction_to_Pandas.gif"><img src="./src/Badges/Introduction_to_Pandas.gif" width="80" alt="Pandas Course" /></a>
+  <a href="https://github.com/rgcodexd/rgcodexd/blob/main/src/Badges/Top_SQL_50.gif"><img src="./src/Badges/Top_SQL_50.gif" width="80" alt="Top SQL 50" /></a>
 </p>
 
 ## 📊 GitHub Contributions
@@ -106,7 +108,7 @@ Stack: `TypeScript` • `Next.js` • `TailwindCSS`
 
 ## 🏆 GitHub Trophies
 <div align="center">
-  <img src="./src/assets/githubtrophies.png" alt="GitHub Trophies" style="width: 100%; display: inline-block;" />
+  <a href="https://github.com/rgcodexd/rgcodexd/blob/main/src/assets/githubtrophies.png"><img src="./src/assets/githubtrophies.png" alt="GitHub Trophies" style="width: 100%; display: inline-block;" /></a>
 </div>
 
 ### ✍️ Random Dev Quote
