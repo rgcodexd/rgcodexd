@@ -18,30 +18,18 @@ CS Undergrad at Delhi University with a passion for building scalable, user-cent
 <p align="center">
   <a href="https://github.com/rgcodexd"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://www.linkedin.com/in/rahul-gupta-56b763254/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://x.com/RGRRGRGRGRGRGRG"><img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white" alt="Twitter"/></a>
+  <a href="https://x.com/_rahulgupta_7"><img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white" alt="Twitter"/></a>
 </p>
 
 ## 🚀 Featured Projects
-<p align="center">
-  <a href="https://github.com/rgcodexd/FairSplit"><img src="./screenshots/fairsplit.png" alt="FairSplit" width="45%" style="margin:8px;" /></a>
-  <a href="https://github.com/rgcodexd/CampusCartel"><img src="./screenshots/campuscantel.png" alt="CampusCartel" width="45%" style="margin:8px;" /></a>
-</p>
 
-### 🔹 FairSplit
-> Smart Expense Splitter – Enter who paid what, assign items, and instantly see balances!  
-Languages & Tools: `C++` • `CMake` • `Git` 
-
-### 🔹 CampusCartel
-> Secret campus marketplace – Buy, sell, or trade with AI-inspired vibes.  
+### 🔹 Skillex
+> AI-powered skill development platform for personalized learning paths.  
 Stack: `TypeScript` • `Next.js` • `TailwindCSS`
-
-### 🔹 Zerodha Landing Page
-> Responsive clone of Zerodha’s landing page. Perfect for sharpening UI skills.  
-Built with: `HTML` • `CSS`
 
 ---
 
-## � Tech Stack
+## 💻 Tech Stack
 
 ### **Programming Languages**
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -68,57 +56,18 @@ Built with: `HTML` • `CSS`
 ![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-%2300599C.svg?style=for-the-badge&logo=code&logoColor=white)
 ![OOP](https://img.shields.io/badge/OOP-%2302569B.svg?style=for-the-badge&logo=code&logoColor=white)
 
-## 📊 GitHub Stats
-<table>
-  <tr>
-    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=rgcodexd&theme=tokyonight&hide_border=false"></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rgcodexd&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact"></td>
-  </tr>
-</table>
-
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rgcodexd&theme=tokyonight&column=9&margin-w=11" alt="GitHub Trophies" style="width: 100%; display: inline-block;" />
-</div>
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
-## 🌐 Connect with Me
+## 🎓 Certifications & Badges
 <p align="center">
-  <a href="https://github.com/rgcodexd" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/rahul-gupta-56b763254/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://x.com/RGRRGRGRGRGRGRG" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
+  <a href="#"><img src="./src/Badges/IBM Python for Data Science and AI.png" width="100px"></a>
+  <a href="#"><img src="./src/Badges/IBM_SE_Essentials.png" width="100px"></a>
+  <a href="#"><img src="./src/Badges/SAP_DataAnalyst.png" width="100px"></a>
+  <a href="#"><img src="./src/Badges/sap-certified-associate-backend-developer-sap-cloud.png" width="100px"></a>
+  <a href="#"><img src="./src/Badges/Oracle_Professional.png" width="100px"></a>
+  <a href="#"><img src="./src/Badges/Oracle_university.png" width="100px"></a>
+  <a href="#"><img src="./src/Badges/python-essentials-1.1.png" width="100px"></a>
+  <a href="#"><img src="./src/Badges/AWSEBadge.png" width="100px"></a>
+  <a href="#"><img src="./src/Badges/image.png" width="100px"></a>
 </p>
-
----
-
-## 🔮 Future Goals
-- 🚀 Launch an open-source UI component library  
-- 🤖 Integrate AI-driven features into CampusCartel  
-- 🎯 Contribute to 5+ major open-source projects by year-end  
-- 🌐 Start a tech blog on full-stack tips & cyberpunk design hacks  
-
----
-
-## 🎉 Fun Fact
-> I turn ☕ into code, and bugs into features.  
-Dorm + Dev = 🚀
-
----
-
-⭐️ If you like what you see, don’t forget to ⭐ my repos and say hi on social!  
-
-## 🎗️ Open Source Achievements
-[![An image of @rgcodexd's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rgcodexd)](https://holopin.io/@rgcodexd)
 
 ## 🏅 LeetCode Badge Showcase
 <p align="center">
@@ -146,15 +95,19 @@ Dorm + Dev = 🚀
   <img src="./src/Badges/Top_SQL_50.gif" width="80" alt="Top SQL 50" />
 </p>
 
-## 🎓 Certifications & Badges
+## 📊 GitHub Contributions
 <p align="center">
-  <a href="#"><img src="./src/Badges/IBM Python for Data Science and AI.png" width="100px"></a>
-  <a href="#"><img src="./src/Badges/IBM_SE_Essentials.png" width="100px"></a>
-  <a href="#"><img src="./src/Badges/SAP_DataAnalyst.png" width="100px"></a>
-  <a href="#"><img src="./src/Badges/sap-certified-associate-backend-developer-sap-cloud.png" width="100px"></a>
-  <a href="#"><img src="./src/Badges/Oracle_Professional.png" width="100px"></a>
-  <a href="#"><img src="./src/Badges/Oracle_university.png" width="100px"></a>
-  <a href="#"><img src="./src/Badges/python-essentials-1.1.png" width="100px"></a>
-  <a href="#"><img src="./src/Badges/AWSEBadge.png" width="100px"></a>
-  <a href="#"><img src="./src/Badges/image.png" width="100px"></a>
+  <img src="./src/assets/github-user-contribution.svg" alt="GitHub Contributions" />
 </p>
+
+## 🏆 GitHub Trophies
+<div align="center">
+  <img src="./src/assets/githubtrophies.png" alt="GitHub Trophies" style="width: 100%; display: inline-block;" />
+</div>
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
+⭐️ If you like what you see, don't forget to ⭐ my repos and say hi on social!
