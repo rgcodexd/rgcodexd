@@ -27,6 +27,10 @@ CS Undergrad at Delhi University with a passion for building scalable, user-cent
 > AI-powered skill development platform for personalized learning paths.  
 Stack: `TypeScript` • `Next.js` • `TailwindCSS`
 
+### 🔹 CampusCartel
+> Secret campus marketplace – Buy, sell, or trade with AI-inspired vibes.  
+Stack: `TypeScript` • `Next.js` • `TailwindCSS`
+
 ---
 
 ## 💻 Tech Stack
